@@ -13,3 +13,6 @@ In this repository we will have only animations using the css styling language, 
 ![App Screenshot](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![App Screenshot](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## Animations
+
+https://user-images.githubusercontent.com/78994881/211372289-36f48c41-93c4-4442-bd3a-5fdf0cb0464c.mp4
